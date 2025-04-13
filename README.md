@@ -1,2 +1,2 @@
-# odin-recipes
-Project for the HTML section of the course
+Project for the HTML section of the Odin Project curriculum, where I will create a recipes site
+with images and links, different types of text and demonstrate that I have learned the basic HTML knwoledge required to create a working website, albeit a very simple and boring one.
