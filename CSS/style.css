@@ -10,8 +10,7 @@ h1{
 div.list{
     border: 2px solid black;
     padding: 12px;
-    padding-left:auto;
-    padding-left: 185px;
+    padding-left: 50%;
     font-size: large;
     font-weight: bold;
 }
