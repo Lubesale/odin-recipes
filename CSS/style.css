@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(60, 0, 100);
+}
+div.list{
+    border: 2px solid black;
+    padding: 12px;
+    padding-left:auto;
+    padding-left: 185px;
+    font-size: large;
+    font-weight: bold;
+}
