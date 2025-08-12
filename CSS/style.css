@@ -1,5 +1,8 @@
 body{
     background-color: aquamarine;
+    background-image: url(../images/backgroundmain.jpg);
+    background-size: cover;
+    min-height: 100vh;
 }
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -15,4 +18,5 @@ div.list{
     font-weight: bold;
     justify-content: center;
     align-items: center;
+    background-color: ;
 }
