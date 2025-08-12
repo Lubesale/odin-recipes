@@ -8,9 +8,11 @@ h1{
     color:rgb(60, 0, 100);
 }
 div.list{
+    display: flex;
     border: 2px solid black;
     padding: 12px;
-    padding-left: 50%;
     font-size: large;
     font-weight: bold;
+    justify-content: center;
+    align-items: center;
 }
